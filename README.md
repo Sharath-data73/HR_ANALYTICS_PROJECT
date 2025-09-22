@@ -85,7 +85,7 @@ The final dashboard provided actionable insights, including:
 
 | HR Employee Insights |
 | ----------- |
-![My Image](![DASHBOARD IMAGE](https://github.com/user-attachments/assets/b132b171-97c7-4df8-8e8c-fac1aa3b2f48)
+![My Image](<img width="1335" height="750" alt="{2E775776-D55E-4E67-B609-0BE68E5578CE}" src="https://github.com/user-attachments/assets/45625c10-36af-4a83-91b7-c6ccefcff5a5" />
 )
 
   
